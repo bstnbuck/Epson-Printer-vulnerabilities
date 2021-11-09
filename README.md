@@ -19,6 +19,9 @@ During a research project, the Epson WorkForce Pro WF-C5710DWF Series multifunct
 
 
 
-> Credits: HS-AlbSig Pentesting-Project Team 2020/2021
+> Credits: HS-AlbSig Pentesting-Project Team 2020/2021 </br>
+Responsible and managed by: Prof. Holger Morgenstern, M.Eng. Simon Malik </br>
+Responsible for content: Bastian Buck </br>
+Contributors: Robert Schreiber, Dennis Bäßler, Moritz Schürmann, Andreas Luft, Jonas Cremer, Lukas Hoffmann, Lennart Schrottenholzer, Daniel Förderer, Peter Szantai-Kis, Caner Ünal, Johannes Jünger, Roman Alyunov, Bastian Buck
 
 > This security vulnerability was found by HS-AlbSig Pentesting-Project Team (Albstadt-Sigmaringen University) (Technical contact: https://github.com/bstnbuck)
